@@ -7,3 +7,4 @@ A collection of recipes for '[RSound: A Sound Engine for Racket](https://docs.ra
 
 To contribute add your recipe as a single file in the [recipes](recipes/) folder
 
+Contributions are accepted on the condition they are licenced under the same terms as Racket: MIT or Apache 2.
